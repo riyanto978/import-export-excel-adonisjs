@@ -30,6 +30,7 @@
     "exceljs-node": "^1.6.7",
     "helpers": "0.0.6",
     "mysql": "^2.16.0",
+    "mysql2": "^2.1.0",
     "sqlite3": "^4.0.6"
   },
   "devDependencies": {},
